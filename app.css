@@ -22,6 +22,7 @@ body {
 }
 
 .destination-container {
+    color: blue;
     display: flex;
     flex-flow: wrap;
     justify-content: center;
